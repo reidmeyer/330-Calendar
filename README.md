@@ -5,6 +5,8 @@ Cs 330
 Reid Meyer
 Kevin Kowalsky
 
+this is a copy from: https://bitbucket.org/cse330/fall2018-module5-group-465822-465040/src/master/
+
 Link to calendar: http://ec2-18-212-195-32.compute-1.amazonaws.com/~reidmeyer/Mod5/group/main.html
 
 
